@@ -1,78 +1,45 @@
-<div align="center">
+<img src="./assets/niko-hero.svg" width="100%" alt="Hola, soy René. Software · IA · Ideas que cobran vida. Construyendo mi próximo proyecto junto a Niko." />
 
-# Hola, soy René <span style="color:#22d3ee">✦</span>
+<br/>
 
-### Software · IA · Ideas que cobran vida
+## Un poco sobre mí
 
-`> construyendo mi próximo proyecto_`
+Estudiante de **Ingeniería en Sistemas y Redes Informáticas**, de El Salvador.
 
-<img src="https://raw.githubusercontent.com/Fourecks/Fourecks/main/assets/avatar-niko.png" alt="Niko, mi compañero pixelado" width="180" />
+Me gusta crear herramientas útiles y explorar la inteligencia artificial. Desarrollo software y convierto ideas en proyectos.
 
-</div>
-
----
-
-## 👋 Un poco sobre mí
-
-<table>
-<tr>
-<td width="72%" valign="top">
-
-Estudiante de **Ingeniería en Sistemas y Redes Informáticas** en El Salvador 🇸🇻.
-
-Me gusta crear herramientas útiles, explorar la inteligencia artificial y convertir ideas en proyectos.
-
-</td>
-<td width="28%" align="center" valign="middle">
-
-**RENÉ + NIKO**<br/>
-*aprendiendo y construyendo*
-
-</td>
-</tr>
-</table>
-
-## 🧰 Mi stack
+## Mi stack
 
 <p>
-<a href="https://flutter.dev"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-0b1b2b?style=for-the-badge&logo=flutter&logoColor=35c7f4"></a>
-<a href="https://dart.dev"><img alt="Dart" src="https://img.shields.io/badge/Dart-0b1b2b?style=for-the-badge&logo=dart&logoColor=32b9e8"></a>
-<a href="https://www.python.org"><img alt="Python" src="https://img.shields.io/badge/Python-0b1b2b?style=for-the-badge&logo=python&logoColor=ffd43b"></a>
-<a href="https://www.typescriptlang.org"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0b1b2b?style=for-the-badge&logo=typescript&logoColor=3178c6"></a>
-<a href="https://supabase.com"><img alt="Supabase" src="https://img.shields.io/badge/Supabase-0b1b2b?style=for-the-badge&logo=supabase&logoColor=3ecf8e"></a>
-<a href="https://git-scm.com"><img alt="Git" src="https://img.shields.io/badge/Git-0b1b2b?style=for-the-badge&logo=git&logoColor=f05032"></a>
+<a href="https://flutter.dev/"><img src="https://img.shields.io/badge/Flutter-101f30?style=for-the-badge&logo=flutter&logoColor=40c4ff" alt="Flutter" /></a>
+<a href="https://dart.dev/"><img src="https://img.shields.io/badge/Dart-101f30?style=for-the-badge&logo=dart&logoColor=00c4e8" alt="Dart" /></a>
+<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-101f30?style=for-the-badge&logo=python&logoColor=ffd43b" alt="Python" /></a>
+<a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-101f30?style=for-the-badge&logo=typescript&logoColor=3178c6" alt="TypeScript" /></a>
+<a href="https://supabase.com/"><img src="https://img.shields.io/badge/Supabase-101f30?style=for-the-badge&logo=supabase&logoColor=3ecf8e" alt="Supabase" /></a>
+<a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-101f30?style=for-the-badge&logo=git&logoColor=f05032" alt="Git" /></a>
 </p>
 
-## 🚀 Lo que estoy construyendo
+## Lo que estoy construyendo
+
+<p>
+<img src="./assets/niko-card.svg" width="32%" alt="Niko · Asistente personal con IA" />
+<img src="./assets/mubos-card.svg" width="32%" alt="Mubos · Inventario y punto de venta" />
+<a href="https://sitolab.shop/"><img src="./assets/sitolab-card.svg" width="32%" alt="Sito Lab · Creatividad y tecnología. Visitar sitio." /></a>
+</p>
 
 <table>
 <tr>
-<td width="33%" valign="top">
-
-### 🤖 Niko
-Asistente personal con IA y un compañero pixelado para el día a día.
-
-</td>
-<td width="33%" valign="top">
-
-### 🏪 Mubos
-Herramientas para inventario y punto de venta pensadas para negocios.
-
-</td>
-<td width="33%" valign="top">
-
-### 🎨 Sito Lab
-Papelería creativa y experiencias personalizadas.
-
-[Visitar Sito Lab →](https://sitolab.shop/)
-
-</td>
+<td width="33%" valign="top"><strong>Niko</strong><p>Un asistente personal con IA, voz y un compañero pixelado para el día a día.</p></td>
+<td width="33%" valign="top"><strong>Mubos</strong><p>Herramientas para llevar el inventario y el punto de venta de un negocio.</p></td>
+<td width="33%" valign="top"><strong>Sito Lab</strong><p>Papelería creativa y experiencias de personalización.</p><a href="https://sitolab.shop/">Explorar Sito Lab →</a></td>
 </tr>
 </table>
 
-## 🔗 Conectemos
+<br/>
 
-[![Instagram](https://img.shields.io/badge/Instagram-rrosales.dev-0b1b2b?style=for-the-badge&logo=instagram&logoColor=22d3ee)](https://www.instagram.com/rrosales.dev/)
-[![Sito Lab](https://img.shields.io/badge/Sito_Lab-sitolab.shop-0b1b2b?style=for-the-badge&logo=googlechrome&logoColor=22d3ee)](https://sitolab.shop/)
+<p align="center">
+<a href="https://www.instagram.com/rrosales.dev/"><img src="https://img.shields.io/badge/Instagram-rrosales.dev-101f30?style=for-the-badge&logo=instagram&logoColor=00e5ee" alt="Instagram de René" /></a>
+<a href="https://sitolab.shop/"><img src="https://img.shields.io/badge/Sito_Lab-sitolab.shop-101f30?style=for-the-badge&logo=googlechrome&logoColor=00e5ee" alt="Sitio de Sito Lab" /></a>
+</p>
 
 <p align="center"><sub>Construyendo, aprendiendo y dando vida a nuevas ideas. ✦ René + Niko</sub></p>
