@@ -1,5 +1,5 @@
 <!-- Textos editables y componentes SVG propios en assets/. -->
-<img src="https://raw.githubusercontent.com/Fourecks/Fourecks/9f3d196385f881def4fef7f6e3ee0ed8af6fb132/assets/niko-hero-motion.svg" width="100%" alt="Hola, soy René. Software · IA · Ideas que cobran vida. Niko con su monitor y holograma de código." />
+<img src="https://raw.githubusercontent.com/Fourecks/Fourecks/9985a0b7b52269846f5b65b3e16e2cdab800edde/assets/niko-hero-motion.svg" width="100%" alt="Hola, soy René. Software · IA · Ideas que cobran vida. Niko con su monitor y holograma de código." />
 
 <p align="center">
 <a href="#sobre-mí" title="Ir a Sobre mí"><img src="./assets/nav-about.svg" width="190" alt="Sobre mí" /></a>
@@ -11,7 +11,30 @@
 <a name="sobre-mí"></a>
 <img src="./assets/heading-about.svg" width="100%" alt="Un poco sobre mí" />
 
-Estudiante de **Ingeniería en Sistemas y Redes Informáticas**, de El Salvador. Me gusta crear herramientas útiles, explorar la inteligencia artificial y convertir ideas en proyectos.
+<table>
+<tr>
+<td width="76%" valign="top">
+<h3>René Rosales · Sito</h3>
+<p>Soy de <strong>El Salvador</strong> y estudio <strong>Ingeniería en Sistemas y Redes Informáticas</strong> en la Universidad Gerardo Barrios.</p>
+<p>Me gusta unir programación, redes y creatividad para construir herramientas útiles. Aprendo creando proyectos, probando ideas y mejorando cada detalle de la experiencia.</p>
+</td>
+<td width="24%" align="center" valign="middle">
+<img src="./assets/avatar-niko.png" width="145" alt="Niko, mi compañero pixelado" /><br/>
+<sub>Mi compañero de ideas y código</sub>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p><strong>Lo que me mueve</strong></p>
+<ul>
+<li><strong>Software para la vida real.</strong> Crear aplicaciones que ayuden a organizar tareas, administrar negocios y simplificar el trabajo cotidiano.</li>
+<li><strong>Inteligencia artificial y automatización.</strong> Explorar asistentes personales, interacción por voz y nuevas formas de conectar herramientas.</li>
+<li><strong>Redes, Linux y dispositivos.</strong> Aprender cómo se conectan los sistemas y experimentar con servidores, electrónica y robótica.</li>
+</ul>
+<p>También desarrollo <strong>Sito Lab</strong>, donde combino papelería creativa, diseño y tecnología. Me entusiasma ver una idea pasar del primer boceto a algo que se puede usar.</p>
+</td>
+</tr>
+</table>
 
 <a name="tecnologías"></a>
 <img src="./assets/heading-stack.svg" width="100%" alt="Mi stack" />
