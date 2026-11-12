@@ -1,42 +1,18 @@
 <p align="center">
-  <img src="./assets/niko-banner.png" alt="Hola, soy René. Software, IA e ideas que cobran vida, junto a Niko." width="100%" />
+<img src="https://raw.githubusercontent.com/Fourecks/Fourecks/main/assets/perfil-niko.png" width="100%" alt="Hola, soy René. Software · IA · Ideas que cobran vida. Estudiante de Ingeniería en Sistemas y Redes Informáticas. Me gusta crear herramientas útiles y explorar la inteligencia artificial. Mi stack: Flutter, Dart, Python, TypeScript, Supabase y Git. Construyendo Niko, asistente personal con IA; Mubos, inventario y punto de venta; y Sito Lab, creatividad y tecnología." />
 </p>
 
-## 👋 Un poco sobre mí
+<p align="center"><a href="https://sitolab.shop/">Sito Lab</a> &nbsp; · &nbsp; <a href="https://www.instagram.com/rrosales.dev/">Instagram</a></p>
 
-<img align="right" src="./assets/niko.png" alt="Niko, mi compañero pixelado" width="150" />
+<details>
+<summary>Sobre mí y mis proyectos · versión en texto</summary>
 
-Soy **René Rosales**, también conocido como **Sito**, de El Salvador 🇸🇻.
+Soy **René Rosales (Sito)**, de El Salvador. Estudio Ingeniería en Sistemas y Redes Informáticas. Me gusta crear herramientas útiles y explorar la inteligencia artificial.
 
-Estudio **Ingeniería en Sistemas y Redes Informáticas**. Me gusta convertir ideas en herramientas útiles, explorar la inteligencia artificial y cuidar los detalles de cada experiencia.
+**Tecnologías:** Flutter · Dart · Python · TypeScript · Supabase · Git.
 
-Actualmente construyo proyectos que conectan **software, automatización y creatividad**.
+- **Niko:** asistente personal con IA.
+- **Mubos:** inventario y punto de venta.
+- **[Sito Lab](https://sitolab.shop/):** creatividad y tecnología.
 
-<br clear="right" />
-
-## 🧩 Mi stack
-
-<p>
-  <img src="./assets/stack.svg" alt="Flutter · Dart · Python · TypeScript · Supabase · Git" width="100%" />
-</p>
-
-## 🚀 Lo que estoy construyendo
-
-<p>
-  <img src="./assets/proyectos.svg" alt="Niko: asistente personal con IA. Mubos: inventario y punto de venta. Sito Lab: creatividad y tecnología." width="100%" />
-</p>
-
-| Proyecto | En qué trabajo |
-| :--- | :--- |
-| **Niko** | Un asistente personal con IA, voz y un compañero pixelado. |
-| **Mubos** | Herramientas para inventario y punto de venta. |
-| **[Sito Lab](https://sitolab.shop/)** | Papelería creativa y experiencias de personalización. |
-
-## 🌐 Conectemos
-
-[![Instagram](https://img.shields.io/badge/Instagram-rrosales.dev-123047?style=for-the-badge&logo=instagram&logoColor=27ded9)](https://www.instagram.com/rrosales.dev/)
-[![Sito Lab](https://img.shields.io/badge/Sito_Lab-sitolab.shop-123047?style=for-the-badge&logo=googlechrome&logoColor=27ded9)](https://sitolab.shop/)
-
----
-
-<p align="center"><sub>Construyendo, aprendiendo y dando vida a nuevas ideas. &nbsp; ✦ &nbsp; René + Niko</sub></p>
+</details>
