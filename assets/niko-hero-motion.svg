@@ -20,7 +20,7 @@
 .screenPulse{animation:screenLight 6.5s ease-in-out infinite}
 @media(prefers-reduced-motion:reduce){.hologramLight,.monitorLight,.screenPulse{animation:none;opacity:.08}}
 
-@keyframes nikoBreath{0%,100%{transform:translateY(0) rotate(0deg)}35%{transform:translateY(-2.8px) rotate(-.38deg)}70%{transform:translateY(-.8px) rotate(.32deg)}}
+@keyframes nikoBreath{0%,100%{transform:translateY(0) rotate(0deg)}35%{transform:translateY(-4.6px) rotate(-.65deg)}70%{transform:translateY(-1.4px) rotate(.52deg)}}
 @keyframes nikoBlink{0%,30%,32.8%,76%,78.8%,100%{opacity:0}30.7%,32.1%,76.7%,78.1%{opacity:1}}
 .nikoPose{transform-origin:937px 178px;animation:nikoBreath 11s ease-in-out infinite}
 .nikoLids{opacity:0;animation:nikoBlink 11s linear infinite}
