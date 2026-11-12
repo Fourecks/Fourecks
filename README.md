@@ -19,8 +19,7 @@
 <p>Me gusta unir programación, redes y creatividad para construir herramientas útiles. Aprendo creando proyectos, probando ideas y mejorando cada detalle de la experiencia.</p>
 </td>
 <td width="24%" align="center" valign="middle">
-<img src="./assets/avatar-niko.png" width="145" alt="Niko, mi compañero pixelado" /><br/>
-<sub>Mi compañero de ideas y código</sub>
+<img src="./assets/avatar-niko-blink.svg" width="145" alt="Niko parpadeando" />
 </td>
 </tr>
 <tr>
@@ -38,25 +37,14 @@
 <a name="tecnologías"></a>
 <img src="./assets/heading-stack.svg" width="100%" alt="Mi stack" />
 
-<p><img src="./assets/stack-frontend.svg" width="100%" alt="Frontend: Flutter, Dart y TypeScript. Interfaces y aplicaciones." /></p>
-<p><img src="./assets/stack-backend.svg" width="100%" alt="Backend: Python y Supabase. Lógica y servicios." /></p>
-<p><img src="./assets/stack-sql.svg" width="100%" alt="SQL: PostgreSQL. Bases de datos relacionales." /></p>
-<p><img src="./assets/stack-cloud.svg" width="100%" alt="Nube: explorando Azure y Google Cloud Console." /></p>
+<table>
+<tr><td width="180"><strong>Frontend</strong></td><td width="780"><a href="https://flutter.dev/"><img src="./assets/logos/flutter.svg" width="36" height="36" align="middle" alt="Flutter" />&nbsp; Flutter</a> &nbsp; &nbsp; <a href="https://dart.dev/"><img src="./assets/logos/dart.svg" width="36" height="36" align="middle" alt="Dart" />&nbsp; Dart</a> &nbsp; &nbsp; <a href="https://www.typescriptlang.org/"><img src="./assets/logos/typescript.svg" width="36" height="36" align="middle" alt="TypeScript" />&nbsp; TypeScript</a></td></tr>
+<tr><td><strong>Backend</strong></td><td><a href="https://www.python.org/"><img src="./assets/logos/python.svg" width="36" height="36" align="middle" alt="Python" />&nbsp; Python</a> &nbsp; &nbsp; <a href="https://supabase.com/"><img src="./assets/logos/supabase.svg" width="36" height="36" align="middle" alt="Supabase" />&nbsp; Supabase</a></td></tr>
+<tr><td><strong>SQL</strong></td><td><a href="https://www.postgresql.org/"><img src="./assets/logos/postgresql.svg" width="36" height="36" align="middle" alt="PostgreSQL" />&nbsp; PostgreSQL</a></td></tr>
+<tr><td><strong>Nube</strong><br/><sub>Explorando</sub></td><td><a href="https://azure.microsoft.com/"><img src="./assets/logos/azure.svg" width="28" height="28" align="middle" alt="Azure" />&nbsp; Azure</a> &nbsp; &nbsp; <a href="https://console.cloud.google.com/"><img src="./assets/logos/googlecloud.svg" width="28" height="28" align="middle" alt="Google Cloud" />&nbsp; Google Cloud</a></td></tr>
+</table>
 
-<details>
-<summary>Documentación de las tecnologías</summary>
-
-**Frontend:** [Flutter](https://flutter.dev/) · [Dart](https://dart.dev/) · [TypeScript](https://www.typescriptlang.org/)
-
-**Backend:** [Python](https://www.python.org/) · [Supabase](https://supabase.com/)
-
-**SQL:** [PostgreSQL](https://www.postgresql.org/)
-
-**Nube · explorando:** [Azure](https://azure.microsoft.com/) · [Google Cloud Console](https://console.cloud.google.com/)
-
-</details>
-
-<p><sub>Control de versiones</sub> &nbsp; <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-17232d?style=flat-square&amp;logo=git&amp;logoColor=f05032" alt="Git" /></a></p>
+<p><sub>Control de versiones</sub> &nbsp; <a href="https://git-scm.com/"><img src="./assets/logos/git.svg" width="24" height="24" align="middle" alt="Git" />&nbsp; Git</a></p>
 
 <a name="proyectos"></a>
 <img src="./assets/heading-projects.svg" width="100%" alt="Lo que estoy construyendo" />
