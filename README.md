@@ -1,5 +1,5 @@
 <!-- Textos editables y componentes SVG propios en assets/. -->
-<img src="https://raw.githubusercontent.com/Fourecks/Fourecks/3c108888682f85f4247de4db5e2b11180ee92ba8/assets/niko-hero-motion.svg" width="100%" alt="Hola, soy René. Software · IA · Ideas que cobran vida. Niko con su monitor y holograma de código." />
+<img src="https://raw.githubusercontent.com/Fourecks/Fourecks/0f62ac8e1ff92eca7422d701059ffc58b03b9396/assets/niko-hero-motion.svg" width="100%" alt="Hola, soy René. Software · IA · Ideas que cobran vida. Niko con su monitor y holograma de código." />
 
 <p align="center">
 <a href="#sobre-mí" title="Ir a Sobre mí"><img src="./assets/nav-about.svg" width="190" alt="Sobre mí" /></a>
@@ -38,36 +38,23 @@
 <a name="tecnologías"></a>
 <img src="./assets/heading-stack.svg" width="100%" alt="Mi stack" />
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<h3>Frontend</h3>
-<p>Interfaces y aplicaciones</p>
-<p><a href="https://flutter.dev/"><img src="https://img.shields.io/badge/Flutter-101f30?style=for-the-badge&amp;logo=flutter&amp;logoColor=40c4ff" alt="Flutter" /></a>
-<a href="https://dart.dev/"><img src="https://img.shields.io/badge/Dart-101f30?style=for-the-badge&amp;logo=dart&amp;logoColor=00c4e8" alt="Dart" /></a>
-<a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-101f30?style=for-the-badge&amp;logo=typescript&amp;logoColor=3178c6" alt="TypeScript" /></a></p>
-</td>
-<td width="50%" valign="top">
-<h3>Backend</h3>
-<p>Lógica, servicios y datos</p>
-<p><a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-101f30?style=for-the-badge&amp;logo=python&amp;logoColor=ffd43b" alt="Python" /></a>
-<a href="https://supabase.com/"><img src="https://img.shields.io/badge/Supabase-101f30?style=for-the-badge&amp;logo=supabase&amp;logoColor=3ecf8e" alt="Supabase" /></a></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3>SQL</h3>
-<p>Bases de datos relacionales</p>
-<p><a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-101f30?style=for-the-badge&amp;logo=postgresql&amp;logoColor=72add2" alt="PostgreSQL" /></a></p>
-</td>
-<td width="50%" valign="top">
-<h3>Nube</h3>
-<p><sub>Explorando Azure y Google Cloud Console</sub></p>
-<p><a href="https://azure.microsoft.com/"><img src="https://img.shields.io/badge/Azure-17232d?style=flat-square&amp;logoColor=8ab7d4" alt="Azure" /></a>
-<a href="https://console.cloud.google.com/"><img src="https://img.shields.io/badge/Google_Cloud-17232d?style=flat-square&amp;logo=googlecloud&amp;logoColor=aac3d4" alt="Google Cloud" /></a></p>
-</td>
-</tr>
-</table>
+<p><img src="./assets/stack-frontend.svg" width="100%" alt="Frontend: Flutter, Dart y TypeScript. Interfaces y aplicaciones." /></p>
+<p><img src="./assets/stack-backend.svg" width="100%" alt="Backend: Python y Supabase. Lógica y servicios." /></p>
+<p><img src="./assets/stack-sql.svg" width="100%" alt="SQL: PostgreSQL. Bases de datos relacionales." /></p>
+<p><img src="./assets/stack-cloud.svg" width="100%" alt="Nube: explorando Azure y Google Cloud Console." /></p>
+
+<details>
+<summary>Documentación de las tecnologías</summary>
+
+**Frontend:** [Flutter](https://flutter.dev/) · [Dart](https://dart.dev/) · [TypeScript](https://www.typescriptlang.org/)
+
+**Backend:** [Python](https://www.python.org/) · [Supabase](https://supabase.com/)
+
+**SQL:** [PostgreSQL](https://www.postgresql.org/)
+
+**Nube · explorando:** [Azure](https://azure.microsoft.com/) · [Google Cloud Console](https://console.cloud.google.com/)
+
+</details>
 
 <p><sub>Control de versiones</sub> &nbsp; <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-17232d?style=flat-square&amp;logo=git&amp;logoColor=f05032" alt="Git" /></a></p>
 
