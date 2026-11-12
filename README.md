@@ -1,5 +1,5 @@
 <!-- Textos editables y componentes SVG propios en assets/. -->
-<img src="https://raw.githubusercontent.com/Fourecks/Fourecks/9985a0b7b52269846f5b65b3e16e2cdab800edde/assets/niko-hero-motion.svg" width="100%" alt="Hola, soy René. Software · IA · Ideas que cobran vida. Niko con su monitor y holograma de código." />
+<img src="https://raw.githubusercontent.com/Fourecks/Fourecks/3c108888682f85f4247de4db5e2b11180ee92ba8/assets/niko-hero-motion.svg" width="100%" alt="Hola, soy René. Software · IA · Ideas que cobran vida. Niko con su monitor y holograma de código." />
 
 <p align="center">
 <a href="#sobre-mí" title="Ir a Sobre mí"><img src="./assets/nav-about.svg" width="190" alt="Sobre mí" /></a>
@@ -15,7 +15,7 @@
 <tr>
 <td width="76%" valign="top">
 <h3>René Rosales · Sito</h3>
-<p>Soy de <strong>El Salvador</strong> y estudio <strong>Ingeniería en Sistemas y Redes Informáticas</strong> en la Universidad Gerardo Barrios.</p>
+<p>Soy de <strong>El Salvador</strong> y estudio <strong>Ingeniería en Sistemas y Redes Informáticas</strong>.</p>
 <p>Me gusta unir programación, redes y creatividad para construir herramientas útiles. Aprendo creando proyectos, probando ideas y mejorando cada detalle de la experiencia.</p>
 </td>
 <td width="24%" align="center" valign="middle">
@@ -31,7 +31,6 @@
 <li><strong>Inteligencia artificial y automatización.</strong> Explorar asistentes personales, interacción por voz y nuevas formas de conectar herramientas.</li>
 <li><strong>Redes, Linux y dispositivos.</strong> Aprender cómo se conectan los sistemas y experimentar con servidores, electrónica y robótica.</li>
 </ul>
-<p>También desarrollo <strong>Sito Lab</strong>, donde combino papelería creativa, diseño y tecnología. Me entusiasma ver una idea pasar del primer boceto a algo que se puede usar.</p>
 </td>
 </tr>
 </table>
@@ -39,14 +38,38 @@
 <a name="tecnologías"></a>
 <img src="./assets/heading-stack.svg" width="100%" alt="Mi stack" />
 
-<p>
-<a href="https://flutter.dev/"><img src="https://img.shields.io/badge/Flutter-101f30?style=for-the-badge&amp;logo=flutter&amp;logoColor=40c4ff" height="34" alt="Flutter" /></a>
-<a href="https://dart.dev/"><img src="https://img.shields.io/badge/Dart-101f30?style=for-the-badge&amp;logo=dart&amp;logoColor=00c4e8" height="34" alt="Dart" /></a>
-<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-101f30?style=for-the-badge&amp;logo=python&amp;logoColor=ffd43b" height="34" alt="Python" /></a>
-<a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-101f30?style=for-the-badge&amp;logo=typescript&amp;logoColor=3178c6" height="34" alt="TypeScript" /></a>
-<a href="https://supabase.com/"><img src="https://img.shields.io/badge/Supabase-101f30?style=for-the-badge&amp;logo=supabase&amp;logoColor=3ecf8e" height="34" alt="Supabase" /></a>
-<a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-101f30?style=for-the-badge&amp;logo=git&amp;logoColor=f05032" height="34" alt="Git" /></a>
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>Frontend</h3>
+<p>Interfaces y aplicaciones</p>
+<p><a href="https://flutter.dev/"><img src="https://img.shields.io/badge/Flutter-101f30?style=for-the-badge&amp;logo=flutter&amp;logoColor=40c4ff" alt="Flutter" /></a>
+<a href="https://dart.dev/"><img src="https://img.shields.io/badge/Dart-101f30?style=for-the-badge&amp;logo=dart&amp;logoColor=00c4e8" alt="Dart" /></a>
+<a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-101f30?style=for-the-badge&amp;logo=typescript&amp;logoColor=3178c6" alt="TypeScript" /></a></p>
+</td>
+<td width="50%" valign="top">
+<h3>Backend</h3>
+<p>Lógica, servicios y datos</p>
+<p><a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-101f30?style=for-the-badge&amp;logo=python&amp;logoColor=ffd43b" alt="Python" /></a>
+<a href="https://supabase.com/"><img src="https://img.shields.io/badge/Supabase-101f30?style=for-the-badge&amp;logo=supabase&amp;logoColor=3ecf8e" alt="Supabase" /></a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>SQL</h3>
+<p>Bases de datos relacionales</p>
+<p><a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-101f30?style=for-the-badge&amp;logo=postgresql&amp;logoColor=72add2" alt="PostgreSQL" /></a></p>
+</td>
+<td width="50%" valign="top">
+<h3>Nube</h3>
+<p><sub>Explorando Azure y Google Cloud Console</sub></p>
+<p><a href="https://azure.microsoft.com/"><img src="https://img.shields.io/badge/Azure-17232d?style=flat-square&amp;logoColor=8ab7d4" alt="Azure" /></a>
+<a href="https://console.cloud.google.com/"><img src="https://img.shields.io/badge/Google_Cloud-17232d?style=flat-square&amp;logo=googlecloud&amp;logoColor=aac3d4" alt="Google Cloud" /></a></p>
+</td>
+</tr>
+</table>
+
+<p><sub>Control de versiones</sub> &nbsp; <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-17232d?style=flat-square&amp;logo=git&amp;logoColor=f05032" alt="Git" /></a></p>
 
 <a name="proyectos"></a>
 <img src="./assets/heading-projects.svg" width="100%" alt="Lo que estoy construyendo" />
