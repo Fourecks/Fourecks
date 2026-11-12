@@ -1,7 +1,12 @@
 <!-- Textos editables y componentes SVG propios en assets/. -->
 <img src="https://raw.githubusercontent.com/Fourecks/Fourecks/6774ed9b969276f620af3fd3d349df4cd08eec36/assets/niko-hero-motion.svg" width="100%" alt="Hola, soy René. Software · IA · Ideas que cobran vida. Niko con su monitor y holograma de código." />
 
-<p align="center"><a href="#sobre-mí">Sobre mí</a> &nbsp; · &nbsp; <a href="#tecnologías">Tecnologías</a> &nbsp; · &nbsp; <a href="#proyectos">Proyectos</a> &nbsp; · &nbsp; <a href="https://www.instagram.com/rrosales.dev/">Conectemos ↗</a></p>
+<p align="center">
+<a href="#sobre-mí" title="Ir a Sobre mí"><img src="./assets/nav-about.svg" width="190" alt="Sobre mí" /></a>
+<a href="#tecnologías" title="Ir a Tecnologías"><img src="./assets/nav-stack.svg" width="190" alt="Tecnologías" /></a>
+<a href="#proyectos" title="Ir a Proyectos"><img src="./assets/nav-projects.svg" width="190" alt="Proyectos" /></a>
+<a href="#conectemos" title="Ir a Conectemos"><img src="./assets/nav-contact.svg" width="190" alt="Conectemos" /></a>
+</p>
 
 <a name="sobre-mí"></a>
 <img src="./assets/heading-about.svg" width="100%" alt="Un poco sobre mí" />
@@ -45,6 +50,7 @@ Mi proyecto de papelería creativa y experiencias de personalización. [Explorar
 
 ---
 
+<a name="conectemos"></a>
 <p align="center">
 <a href="https://www.instagram.com/rrosales.dev/"><img src="https://img.shields.io/badge/Instagram-rrosales.dev-101f30?style=for-the-badge&amp;logo=instagram&amp;logoColor=00e5ee" alt="Instagram de René" /></a>
 <a href="https://sitolab.shop/"><img src="https://img.shields.io/badge/Sito_Lab-sitolab.shop-101f30?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=00e5ee" alt="Sitio de Sito Lab" /></a>
