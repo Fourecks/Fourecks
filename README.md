@@ -1,5 +1,5 @@
 <!-- Textos editables y componentes SVG propios en assets/. -->
-<img src="https://raw.githubusercontent.com/Fourecks/Fourecks/6774ed9b969276f620af3fd3d349df4cd08eec36/assets/niko-hero-motion.svg" width="100%" alt="Hola, soy René. Software · IA · Ideas que cobran vida. Niko con su monitor y holograma de código." />
+<img src="https://raw.githubusercontent.com/Fourecks/Fourecks/9f3d196385f881def4fef7f6e3ee0ed8af6fb132/assets/niko-hero-motion.svg" width="100%" alt="Hola, soy René. Software · IA · Ideas que cobran vida. Niko con su monitor y holograma de código." />
 
 <p align="center">
 <a href="#sobre-mí" title="Ir a Sobre mí"><img src="./assets/nav-about.svg" width="190" alt="Sobre mí" /></a>
