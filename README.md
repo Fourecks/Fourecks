@@ -37,25 +37,27 @@
 <a name="tecnologías"></a>
 <img src="./assets/heading-stack.svg" width="100%" alt="Mi stack" />
 
-<p><strong>Frontend</strong><br/>
-<a href="https://flutter.dev/"><img src="./assets/tech-flutter.svg" width="144" alt="Flutter" /></a>
-<a href="https://dart.dev/"><img src="./assets/tech-dart.svg" width="144" alt="Dart" /></a>
-<a href="https://www.typescriptlang.org/"><img src="./assets/tech-typescript.svg" width="144" alt="TypeScript" /></a>
+<p>
+<img src="./assets/stack-panel-frontend.svg" width="400" alt="Frontend: Flutter, Dart y TypeScript" />
+<img src="./assets/stack-panel-backend.svg" width="400" alt="Backend: Python y Supabase" />
+</p>
+<p>
+<img src="./assets/stack-panel-sql.svg" width="400" alt="SQL: PostgreSQL" />
+<img src="./assets/stack-panel-cloud.svg" width="400" alt="Nube: explorando Azure y Google Cloud" />
 </p>
 
-<p><strong>Backend</strong><br/>
-<a href="https://www.python.org/"><img src="./assets/tech-python.svg" width="144" alt="Python" /></a>
-<a href="https://supabase.com/"><img src="./assets/tech-supabase.svg" width="144" alt="Supabase" /></a>
-</p>
+<details>
+<summary>Enlaces de las tecnologías</summary>
 
-<p><strong>SQL</strong><br/>
-<a href="https://www.postgresql.org/"><img src="./assets/tech-postgresql.svg" width="144" alt="PostgreSQL" /></a>
-</p>
+**Frontend:** [Flutter](https://flutter.dev/) · [Dart](https://dart.dev/) · [TypeScript](https://www.typescriptlang.org/)
 
-<p><strong>Nube</strong> &nbsp; <sub>Explorando</sub><br/>
-<a href="https://azure.microsoft.com/"><img src="./assets/tech-azure.svg" width="144" alt="Azure" /></a>
-<a href="https://console.cloud.google.com/"><img src="./assets/tech-googlecloud.svg" width="144" alt="Google Cloud" /></a>
-</p>
+**Backend:** [Python](https://www.python.org/) · [Supabase](https://supabase.com/)
+
+**SQL:** [PostgreSQL](https://www.postgresql.org/)
+
+**Nube · explorando:** [Azure](https://azure.microsoft.com/) · [Google Cloud Console](https://console.cloud.google.com/)
+
+</details>
 
 <p><sub>Control de versiones</sub> &nbsp; <a href="https://git-scm.com/"><img src="./assets/logos/git.svg" width="18" height="18" align="middle" alt="Git" /> Git</a></p>
 
