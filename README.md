@@ -68,9 +68,9 @@
 <img src="./assets/heading-consolidated.svg" width="100%" alt="Mis proyectos consolidados" />
 
 <p>
-<a href="#niko"><img src="./assets/niko-card.svg" width="270" alt="Niko · Asistente personal con IA" /></a>
-<a href="#mubos"><img src="./assets/mubos-card.svg" width="270" alt="Mubos · Inventario y punto de venta" /></a>
-<a href="https://sitolab.shop/"><img src="./assets/sitolab-card.svg" width="270" alt="Sito Lab · Creatividad y tecnología" /></a>
+<a href="#niko"><img src="./assets/project-niko-clean.svg" width="270" alt="Niko: asistente personal con IA. Voz y organización." /></a>
+<a href="#mubos"><img src="./assets/project-mubos-clean.svg" width="270" alt="Mubos: inventario y punto de venta para negocios." /></a>
+<a href="https://sitolab.shop/"><img src="./assets/project-sitolab-clean.svg" width="270" alt="Sito Lab: papelería creativa y diseños personalizados. Visitar sitio." /></a>
 </p>
 
 <details>
@@ -90,22 +90,15 @@ Papelería creativa y experiencias de personalización. [Visitar Sito Lab →](h
 <a name="open-source"></a>
 <img src="./assets/heading-opensource.svg" width="100%" alt="Mis proyectos open source" />
 
-### [Perfil con Niko](https://github.com/Fourecks/Fourecks)
-El código de este perfil: componentes SVG, animaciones y un calendario conectado a las contribuciones públicas de GitHub.
+Código y pequeños proyectos que comparto.
 
-[Ver código](https://github.com/Fourecks/Fourecks) · [Licencia MIT](https://github.com/Fourecks/Fourecks/blob/main/LICENSE) · [Proponer una mejora](https://github.com/Fourecks/Fourecks/issues/new)
+<p>
+<a href="https://github.com/Fourecks/Fourecks"><img src="./assets/project-os-profile-clean.svg" width="270" alt="Perfil con Niko: SVG, animaciones y calendario de contribuciones. Licencia MIT. Ver código." /></a>
+<a href="https://github.com/Fourecks/Pomodoro_Timer"><img src="./assets/project-os-pomodoro-clean.svg" width="270" alt="Pomodoro Timer: mini proyecto de temporizador. Código público." /></a>
+<a href="https://github.com/Fourecks/To-do-list"><img src="./assets/project-os-todo-clean.svg" width="270" alt="To-do List: mini proyecto de lista de tareas. Código público." /></a>
+</p>
 
-<details>
-<summary>Mini proyectos con código público</summary>
-
-| Proyecto | Descripción | Código |
-| :--- | :--- | :--- |
-| Pomodoro Timer | Mini proyecto de temporizador | [Ver repositorio](https://github.com/Fourecks/Pomodoro_Timer) |
-| To-do List | Mini proyecto de lista de tareas | [Ver repositorio](https://github.com/Fourecks/To-do-list) |
-
-Estos dos repositorios todavía no tienen definida una licencia de reutilización.
-
-</details>
+<sub>El código de este perfil tiene [licencia MIT](https://github.com/Fourecks/Fourecks/blob/main/LICENSE). Pomodoro Timer y To-do List tienen código público, con licencia de reutilización pendiente.</sub>
 
 <a name="contribuciones"></a>
 
