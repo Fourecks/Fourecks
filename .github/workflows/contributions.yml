@@ -1,0 +1,34 @@
+name: Update public contribution calendar
+on:
+  schedule:
+    - cron: '5 13 * * *'
+  workflow_dispatch:
+  push:
+    paths:
+      - scripts/update_contributions.py
+      - .github/workflows/contributions.yml
+permissions:
+  contents: write
+concurrency:
+  group: public-contribution-calendar
+  cancel-in-progress: false
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Read public GitHub activity
+        run: python scripts/update_contributions.py --username Fourecks
+      - name: Save updated calendar
+        run: |
+          if git diff --quiet -- assets/contributions.svg; then
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/contributions.svg
+          git commit -m "Refresh public contribution calendar"
+          git push

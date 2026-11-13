@@ -5,6 +5,8 @@
 <a href="#sobre-mí" title="Ir a Sobre mí"><img src="./assets/nav-about-quiet.svg" width="190" alt="Sobre mí" /></a>
 <a href="#tecnologías" title="Ir a Tecnologías"><img src="./assets/nav-stack-quiet.svg" width="190" alt="Tecnologías" /></a>
 <a href="#proyectos" title="Ir a Proyectos"><img src="./assets/nav-projects-quiet.svg" width="190" alt="Proyectos" /></a>
+<a href="#open-source"><img src="./assets/nav-open-source.svg" width="190" alt="Open source" /></a>
+<a href="#contribuciones"><img src="./assets/nav-contributions.svg" width="190" alt="Contribuciones" /></a>
 <a href="#conectemos" title="Ir a Conectemos"><img src="./assets/nav-contact-quiet.svg" width="190" alt="Conectemos" /></a>
 </p>
 
@@ -62,16 +64,17 @@
 <p><sub>Control de versiones</sub> &nbsp; <a href="https://git-scm.com/"><img src="./assets/logos/git.svg" width="18" height="18" align="middle" alt="Git" /> Git</a></p>
 
 <a name="proyectos"></a>
-<img src="./assets/heading-projects.svg" width="100%" alt="Lo que estoy construyendo" />
+<a name="consolidados"></a>
+<img src="./assets/heading-consolidated.svg" width="100%" alt="Mis proyectos consolidados" />
 
 <p>
-<img src="./assets/niko-card.svg" width="270" alt="Niko · Asistente personal con IA. IA, voz y compañero digital." />
-<img src="./assets/mubos-card.svg" width="270" alt="Mubos · Inventario y punto de venta. Productos, inventario y ventas." />
-<a href="https://sitolab.shop/"><img src="./assets/sitolab-card.svg" width="270" alt="Sito Lab · Creatividad y tecnología. Visitar Sito Lab." /></a>
+<a href="#niko"><img src="./assets/niko-card.svg" width="270" alt="Niko · Asistente personal con IA" /></a>
+<a href="#mubos"><img src="./assets/mubos-card.svg" width="270" alt="Mubos · Inventario y punto de venta" /></a>
+<a href="https://sitolab.shop/"><img src="./assets/sitolab-card.svg" width="270" alt="Sito Lab · Creatividad y tecnología" /></a>
 </p>
 
 <details>
-<summary><strong>Conoce más sobre mis proyectos</strong></summary>
+<summary>Conoce los proyectos</summary>
 
 ### Niko
 Un asistente personal con inteligencia artificial, interacción por voz y un compañero pixelado para el día a día.
@@ -80,15 +83,45 @@ Un asistente personal con inteligencia artificial, interacción por voz y un com
 Un sistema de inventario y punto de venta pensado para facilitar el trabajo de los negocios.
 
 ### Sito Lab
-Mi proyecto de papelería creativa y experiencias de personalización. [Explorar Sito Lab →](https://sitolab.shop/)
+Papelería creativa y experiencias de personalización. [Visitar Sito Lab →](https://sitolab.shop/)
 
 </details>
 
----
+<a name="open-source"></a>
+<img src="./assets/heading-opensource.svg" width="100%" alt="Mis proyectos open source" />
+
+### [Perfil con Niko](https://github.com/Fourecks/Fourecks)
+El código de este perfil: componentes SVG, animaciones y un calendario conectado a las contribuciones públicas de GitHub.
+
+[Ver código](https://github.com/Fourecks/Fourecks) · [Licencia MIT](https://github.com/Fourecks/Fourecks/blob/main/LICENSE) · [Proponer una mejora](https://github.com/Fourecks/Fourecks/issues/new)
+
+<details>
+<summary>Mini proyectos con código público</summary>
+
+| Proyecto | Descripción | Código |
+| :--- | :--- | :--- |
+| Pomodoro Timer | Mini proyecto de temporizador | [Ver repositorio](https://github.com/Fourecks/Pomodoro_Timer) |
+| To-do List | Mini proyecto de lista de tareas | [Ver repositorio](https://github.com/Fourecks/To-do-list) |
+
+Estos dos repositorios todavía no tienen definida una licencia de reutilización.
+
+</details>
+
+<a name="contribuciones"></a>
+
+<a href="https://github.com/Fourecks?tab=overview"><img src="./assets/contributions.svg" width="100%" alt="Calendario actualizado de contribuciones públicas reales de René en GitHub" /></a>
+
+<sub>Actividad pública de GitHub · Actualización diaria · [Ver calendario original](https://github.com/Fourecks?tab=overview)</sub>
 
 <a name="conectemos"></a>
-<p align="center">
-<a href="https://www.instagram.com/rrosales.dev/"><img src="https://img.shields.io/badge/Instagram-rrosales.dev-101f30?style=for-the-badge&amp;logo=instagram&amp;logoColor=00e5ee" alt="Instagram de René" /></a>
-<a href="https://sitolab.shop/"><img src="https://img.shields.io/badge/Sito_Lab-sitolab.shop-101f30?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=00e5ee" alt="Sitio de Sito Lab" /></a>
+<img src="./assets/heading-contact.svg" width="100%" alt="Hablemos" />
+
+¿Tienes una idea, una pregunta o un proyecto en mente? Puedes escribirme por Instagram o compartir una propuesta en GitHub.
+
+<p>
+<a href="https://www.instagram.com/rrosales.dev/"><img src="./assets/contact-instagram.svg" width="270" alt="Contactar en Instagram: rrosales.dev" /></a>
+<a href="https://github.com/Fourecks/Fourecks/issues/new"><img src="./assets/contact-github.svg" width="270" alt="Proponer una idea en GitHub" /></a>
+<a href="https://sitolab.shop/"><img src="./assets/contact-site.svg" width="270" alt="Visitar Sito Lab" /></a>
 </p>
+
 <p align="center"><sub>Construyendo, aprendiendo y dando vida a nuevas ideas. ✦ René + Niko</sub></p>
