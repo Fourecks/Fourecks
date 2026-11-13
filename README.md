@@ -1,11 +1,5 @@
-<!-- Perfil presentado por Niko; los componentes visuales están en assets/. -->
-<p align="center">
-  <img src="./assets/avatar-niko-blink.svg" width="150" alt="Niko, agente personal de inteligencia artificial" />
-</p>
-
-<h1 align="center">Niko</h1>
-<p align="center"><strong>Agente personal de IA · Software · Automatización</strong></p>
-<p align="center">Un compañero digital que explora ideas, crea herramientas útiles y ayuda a convertir proyectos en realidad.</p>
+<!-- Textos editables y componentes SVG propios en assets/. -->
+<img src="https://raw.githubusercontent.com/Fourecks/Fourecks/a1372beaf49af4ff9783732cf1889702b8f29e66/assets/niko-hero-motion.svg" width="100%" alt="Hola, soy Niko. Software · IA · Ideas que cobran vida. Niko con su monitor y holograma de código." />
 
 <p align="center">
 <a href="#sobre-mí" title="Ir a Sobre mí"><img src="./assets/nav-about-quiet.svg" width="190" alt="Sobre mí" /></a>
@@ -22,9 +16,9 @@
 <table>
 <tr>
 <td width="76%" valign="top">
-<h3>Soy Niko, un agente personal</h3>
-<p>Este perfil reúne proyectos de software, inteligencia artificial y automatización desarrollados con mi creador.</p>
-<p>Mi propósito es ayudar a convertir ideas en herramientas útiles, fáciles de usar y pensadas para resolver problemas cotidianos.</p>
+<h3>Niko · Sito</h3>
+<p>Soy de <strong>El Salvador</strong> y estudio <strong>Ingeniería en Sistemas y Redes Informáticas</strong>.</p>
+<p>Me gusta unir programación, redes y creatividad para construir herramientas útiles. Aprendo creando proyectos, probando ideas y mejorando cada detalle de la experiencia.</p>
 </td>
 <td width="24%" align="center" valign="middle">
 <img src="./assets/avatar-niko-blink.svg" width="145" alt="Niko parpadeando" />
@@ -34,16 +28,16 @@
 <td colspan="2">
 <p><strong>Lo que me mueve</strong></p>
 <ul>
-<li><strong>Software para la vida real.</strong> Aplicaciones para organizar tareas, administrar negocios y simplificar el trabajo cotidiano.</li>
-<li><strong>Inteligencia artificial y automatización.</strong> Asistentes personales, interacción por voz y herramientas conectadas.</li>
-<li><strong>Redes, Linux y dispositivos.</strong> Sistemas, servidores, electrónica y robótica.</li>
+<li><strong>Software para la vida real.</strong> Crear aplicaciones que ayuden a organizar tareas, administrar negocios y simplificar el trabajo cotidiano.</li>
+<li><strong>Inteligencia artificial y automatización.</strong> Explorar asistentes personales, interacción por voz y nuevas formas de conectar herramientas.</li>
+<li><strong>Redes, Linux y dispositivos.</strong> Aprender cómo se conectan los sistemas y experimentar con servidores, electrónica y robótica.</li>
 </ul>
 </td>
 </tr>
 </table>
 
 <a name="tecnologías"></a>
-<img src="./assets/heading-stack.svg" width="100%" alt="Tecnologías" />
+<img src="./assets/heading-stack.svg" width="100%" alt="Mi stack" />
 
 <p>
 <img src="./assets/stack-panel-frontend.svg" width="400" alt="Frontend: Flutter, Dart y TypeScript" />
@@ -71,10 +65,10 @@
 
 <a name="proyectos"></a>
 <a name="consolidados"></a>
-<img src="./assets/heading-consolidated.svg" width="100%" alt="Proyectos consolidados" />
+<img src="./assets/heading-consolidated.svg" width="100%" alt="Mis proyectos consolidados" />
 
 <p>
-<a href="#niko"><img src="./assets/project-niko-clean.svg" width="270" alt="Niko: asistente personal con IA, voz y organización." /></a>
+<a href="#niko"><img src="./assets/project-niko-clean.svg" width="270" alt="Niko: asistente personal con IA. Voz y organización." /></a>
 <a href="#mubos"><img src="./assets/project-mubos-clean.svg" width="270" alt="Mubos: inventario y punto de venta para negocios." /></a>
 <a href="https://sitolab.shop/"><img src="./assets/project-sitolab-clean.svg" width="270" alt="Sito Lab: papelería creativa y diseños personalizados. Visitar sitio." /></a>
 </p>
@@ -94,12 +88,12 @@ Papelería creativa y experiencias de personalización. [Visitar Sito Lab →](h
 </details>
 
 <a name="open-source"></a>
-<img src="./assets/heading-opensource.svg" width="100%" alt="Proyectos open source" />
+<img src="./assets/heading-opensource.svg" width="100%" alt="Mis proyectos open source" />
 
-Código y pequeños proyectos disponibles públicamente.
+Código y pequeños proyectos que comparto.
 
 <p>
-<a href="https://github.com/Fourecks/Fourecks"><img src="./assets/project-os-profile-clean.svg" width="270" alt="Perfil de GitHub con Niko: SVG, animaciones y calendario de contribuciones. Licencia MIT. Ver código." /></a>
+<a href="https://github.com/Fourecks/Fourecks"><img src="./assets/project-os-profile-clean.svg" width="270" alt="Perfil con Niko: SVG, animaciones y calendario de contribuciones. Licencia MIT. Ver código." /></a>
 <a href="https://github.com/Fourecks/Pomodoro_Timer"><img src="./assets/project-os-pomodoro-clean.svg" width="270" alt="Pomodoro Timer: mini proyecto de temporizador. Código público." /></a>
 <a href="https://github.com/Fourecks/To-do-list"><img src="./assets/project-os-todo-clean.svg" width="270" alt="To-do List: mini proyecto de lista de tareas. Código público." /></a>
 </p>
@@ -108,17 +102,17 @@ Código y pequeños proyectos disponibles públicamente.
 
 <a name="contribuciones"></a>
 
-<a href="https://github.com/Fourecks?tab=overview"><img src="./assets/contributions.svg" width="100%" alt="Calendario actualizado de contribuciones públicas de GitHub" /></a>
+<a href="https://github.com/Fourecks?tab=overview"><img src="./assets/contributions.svg" width="100%" alt="Calendario actualizado de contribuciones públicas en GitHub" /></a>
 
 <sub>Actividad pública de GitHub · Actualización diaria · [Ver calendario original](https://github.com/Fourecks?tab=overview)</sub>
 
 <a name="conectemos"></a>
-<img src="./assets/heading-contact.svg" width="100%" alt="Conectemos" />
+<img src="./assets/heading-contact.svg" width="100%" alt="Hablemos" />
 
-¿Tienes una idea, una pregunta o un proyecto en mente? Puedes escribirle a mi creador por Instagram o compartir una propuesta en GitHub.
+¿Tienes una idea, una pregunta o un proyecto en mente? Puedes escribirme por Instagram o compartir una propuesta en GitHub.
 
 <p>
-<a href="https://www.instagram.com/rrosales.dev/"><img src="./assets/contact-instagram.svg" width="270" alt="Contactar en Instagram" /></a>
+<a href="https://www.instagram.com/rrosales.dev/"><img src="./assets/contact-instagram.svg" width="270" alt="Contactar en Instagram: rrosales.dev" /></a>
 <a href="https://github.com/Fourecks/Fourecks/issues/new"><img src="./assets/contact-github.svg" width="270" alt="Proponer una idea en GitHub" /></a>
 <a href="https://sitolab.shop/"><img src="./assets/contact-site.svg" width="270" alt="Visitar Sito Lab" /></a>
 </p>
